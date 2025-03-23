@@ -1,0 +1,1 @@
+department: Business Economics name:vbn surname:cvbn empNumber:3456 empType:Permenent
